@@ -15,7 +15,7 @@ I am a passionate *data analyst* and an aspiring *data scientist, excited to exp
 
 <p>
   
-  <a href="https://www.linkedin.com/in/shubham9797/" target="_blank">
+  <a href="https://www.linkedin.com/in/shubham0786/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="50" height="50"/>
   </a>
   <a href="https://github.com/ShubhamKumar0786" target="_blank">
