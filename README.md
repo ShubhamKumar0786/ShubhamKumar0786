@@ -37,5 +37,5 @@ I am a passionate *data analyst* and an aspiring *data scientist, excited to exp
 <a href="https://powerbi.microsoft.com/en-au/" target="_blank"> <img src="https://github.com/microsoft/PowerBI-Icons/blob/main/SVG/Power-BI.svg" alt="powerbi" width="60" height="60"/> </a> 
 <a href="https://www.tableau.com/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" alt="tableau" width="60" height="60"/> </a>
 <a href="https://www.excel.com/" target="_blank"> <img src="https://w7.pngwing.com/pngs/417/369/png-transparent-microsoft-excel-logo-microsoft-word-microsoft-office-365-pivot-table-excel-office-xlsx-icon-microsoft-excel-logo-miscellaneous-template-angle-thumbnail.png" alt="excel" width="60" height="60"/> 
-<a href="https://scikit-learn.org/stable/" target="_blank"> <img src="https://e7.pngegg.com/pngimages/39/4/png-clipart-logo-scikit-learn-python-github-machine-learning-text-orange.pn" width="60" height="60"/> </a>
+<a href="https://scikit-learn.org/stable/" target="_blank"> <img src="https://icon2.cleanpng.com/20180823/gsl/kisspng-scikit-learn-python-scikit-image-logo-brand-custom-application-development-service-provider-ap-1713950341314.webp" alt="scikit-learn" width="60" height="60"/> </a>
 </p>
