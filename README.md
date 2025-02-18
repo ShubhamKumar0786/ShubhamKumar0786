@@ -1,6 +1,6 @@
 # Hey👋, I'm Shubham Kumar
 
-Welcome to my space! 🛰️
+## Welcome to my space! 🛰️
 
 I am a passionate data analyst and an aspiring data scientist, excited to explore the world of data and insights.
 - 🌱 I’m currently learning Data Science.  
