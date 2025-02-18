@@ -3,7 +3,7 @@
 *Welcome to my space! 😄*
 
 I am a passionate *data analyst* and an aspiring *data scientist, excited to explore the world of **data* and *insights*.
-- 🌱 I’m currently learning *Python,Mysql,Tableu,Power Bi,Excel and Data Visualization*  
+- 🌱 I’m currently learning *Python,Mysql,Tableu,Power Bi,Excel, Data Visualization and Machine Learning*  
 - 📩 Let's connect and create something amazing!
 - 🔭 Passionate about learning and growing.  
 - 💡 Open to ideas and opportunities!    
