@@ -1,9 +1,9 @@
-# *Hey👋, I'm *Shubham Kumar**  
+# *Hey👋, I'm *Shubham Kumar* 
 
 *Welcome to my space! 🛰️*
 
 I am a passionate *data analyst* and an aspiring *data scientist, excited to explore the world of **data* and *insights*.
-- 🌱 I’m currently learning *Python,Mysql,Tableu,Power Bi,Excel, Data Visualization and Machine Learning.*  
+- 🌱 I’m currently learning *Data Science*  
 - 📩 Let's connect and create something amazing!
 - 🔭 Passionate about learning and growing.  
 - 💡 Open to ideas and opportunities!    
