@@ -38,4 +38,6 @@ I am a passionate data analyst and an aspiring data scientist, excited to explor
 <a href="https://www.tableau.com/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" alt="tableau" width="60" height="60"/> </a>
 <a href="https://www.excel.com/" target="_blank"> <img src="https://w7.pngwing.com/pngs/417/369/png-transparent-microsoft-excel-logo-microsoft-word-microsoft-office-365-pivot-table-excel-office-xlsx-icon-microsoft-excel-logo-miscellaneous-template-angle-thumbnail.png" alt="excel" width="60" height="60"/> 
 <a href="https://scikit-learn.org/stable/" target="_blank"> <img src="https://icon2.cleanpng.com/20180823/gsl/kisspng-scikit-learn-python-scikit-image-logo-brand-custom-application-development-service-provider-ap-1713950341314.webp" alt="scikit-learn" width="60" height="60"/> </a>
+<a href="https://www.tensorflow.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/TensorFlow_logo.svg/1200px-TensorFlow_logo.svg.png" alt="Tensorflow" width="60" height="60"/> </a>
+  
 </p>
