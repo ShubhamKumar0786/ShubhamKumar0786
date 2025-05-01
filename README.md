@@ -1,13 +1,37 @@
-# Hey👋, I'm Shubham Kumar
+### Hi there, I'm Shubham Kumar 👋
 
-## Welcome to my space! 🛰️
+🚀 Aspiring Data Scientist | 🧠 Data Analyst | 🤖 Exploring Generative AI, NLP & Deep Learning
 
-I am a passionate data analyst and an aspiring data scientist, excited to explore the world of data and insights.
-- 🌱 I’m currently learning Data Science.  
-- 📩 Let's connect and create something amazing!
-- 🔭 Passionate about learning and growing.  
-- 💡 Open to ideas and opportunities!    
-- 📫 How to reach me: [shubhamkashyap9501@gmail.com](mailto:shubhamkashyap9501@gmail.com)  
+Welcome to my GitHub space! I am passionate about uncovering insights through data and building intelligent solutions. With a strong foundation in data science and analytics, I’m currently diving deep into **Generative AI**, **Natural Language Processing (NLP)**, and **Deep Learning**.
+
+---
+
+### 🛠️ Skills & Tools:
+- **Languages:** Python, SQL
+- **Libraries:** Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn, TensorFlow, Keras
+- **Data Viz:** Power BI, Tableau, Excel
+- **Concepts:** EDA, Machine Learning, Deep Learning, NLP
+- **Other:** Git, Streamlit, Flask
+
+---
+
+### 🌱 Currently Learning:
+- Generative AI (LLMs, Prompt Engineering, Transformers)
+- Deep Learning Architectures
+- Model Deployment 
+
+---
+
+
+### 💡 Let's Collaborate!
+I'm always open to working on impactful projects, collaborating with other learners, and contributing to open-source.
+
+📫 **Reach me at:** shubhamkashyap9501@gmail.com
+
+---
+
+“Learning never exhausts the mind.”
+ 
 
 ---
 
