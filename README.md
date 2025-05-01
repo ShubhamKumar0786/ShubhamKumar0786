@@ -1,4 +1,4 @@
-### Hi there, I'm Shubham Kumar 👋
+## Hi there, I'm Shubham Kumar 👋
 
 🚀 Aspiring Data Scientist | 🧠 Data Analyst | 🤖 Exploring Generative AI, NLP & Deep Learning
 
