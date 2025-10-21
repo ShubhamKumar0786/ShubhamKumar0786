@@ -16,7 +16,7 @@ Welcome to my GitHub space! I am passionate about uncovering insights through da
 ---
 
 ### 🌱 Currently Learning:
-- Generative AI (LLMs, Prompt Engineering, Transformers)
+- Generative AI (LLMs, Prompt Engineering, Transformers,Alogrithms)
 - Deep Learning Architectures
 - Model Deployment 
 
