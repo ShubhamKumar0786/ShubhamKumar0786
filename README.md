@@ -11,7 +11,7 @@ Welcome to my GitHub space! I am passionate about building intelligent AI applic
 - **Languages:** Python, SQL
 - **Frameworks & Libraries:** Pandas, NumPy, Matplotlib, Seaborn, Plotly, Scikit-learn, TensorFlow, Keras, Transformers, LangChain, Microsoft AutoGen
 - **AI & ML:** Machine Learning, Deep Learning, NLP, LLMs, RAG Pipelines, LLM Fine-Tuning, Prompt Engineering, Vector Search
-- **Tools & Platforms:** Power BI, MySQL, Git, Docker, Streamlit, FastAPI, Jupyter Notebook, Google Colab, VS Code
+- **Tools & Platforms:** Power BI,Excel,MySQL, Git, Docker, Streamlit, FastAPI, Jupyter Notebook, Google Colab, VS Code
 
 ---
 
