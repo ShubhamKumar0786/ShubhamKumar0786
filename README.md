@@ -1,30 +1,33 @@
 ## Hi there, I'm Shubham Kumar 👋
 
-🚀 Aspiring Data Scientist | 🧠 Data Analyst | 🤖 Exploring Generative AI, NLP & Deep Learning
+🚀 AI Engineer | 🤖 LLM & Generative AI Developer | 📊 Data Scientist
 
-Welcome to my GitHub space! I am passionate about uncovering insights through data and building intelligent solutions. With a strong foundation in data science and analytics, I’m currently diving deep into **Generative AI**, **Natural Language Processing (NLP)**, and **Deep Learning**.
+Welcome to my GitHub space! I am passionate about building intelligent AI applications, uncovering insights through data, and solving real-world problems using Machine Learning, Deep Learning, NLP, and Large Language Models (LLMs). I enjoy creating scalable AI solutions, Multi-Agent Systems, and data-driven applications.
 
 ---
 
 ### 🛠️ Skills & Tools:
+
 - **Languages:** Python, SQL
-- **Libraries:** Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn, TensorFlow, Keras
-- **Data Viz:** Power BI, Tableau, Excel
-- **Concepts:** EDA, Machine Learning, Deep Learning, NLP
-- **Other:** Git, Streamlit, Flask
+- **Frameworks & Libraries:** Pandas, NumPy, Matplotlib, Seaborn, Plotly, Scikit-learn, TensorFlow, Keras, Transformers, LangChain, Microsoft AutoGen
+- **AI & ML:** Machine Learning, Deep Learning, NLP, LLMs, RAG Pipelines, LLM Fine-Tuning, Prompt Engineering, Vector Search
+- **Tools & Platforms:** Power BI, MySQL, Git, Docker, Streamlit, FastAPI, Jupyter Notebook, Google Colab, VS Code
 
 ---
 
 ### 🌱 Currently Learning:
-- Generative AI (LLMs, Prompt Engineering, Transformers,Alogrithms)
-- Deep Learning Architectures
-- Model Deployment 
+
+- Microsoft AutoGen & Multi-Agent AI Systems
+- Advanced RAG Pipelines & AI Agents
+- Model Context Protocol (MCP)
+- LLM Fine-Tuning & Deployment
 
 ---
 
-
 ### 💡 Let's Collaborate!
-I'm always open to working on impactful projects, collaborating with other learners, and contributing to open-source.
+
+I'm always open to working on impactful AI projects, collaborating with developers, contributing to open-source, and building innovative solutions using AI and Data Science.
+
 
 📫 **Reach me at:** shubhamkashyap9501@gmail.com
 
