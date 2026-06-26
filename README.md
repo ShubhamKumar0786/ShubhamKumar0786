@@ -17,8 +17,7 @@ Welcome to my GitHub space! I am passionate about building intelligent AI applic
 
 ### 🌱 Currently Learning:
 
-- Microsoft AutoGen & Multi-Agent AI Systems
-- Advanced RAG Pipelines & AI Agents
+- n8n automation
 - Model Context Protocol (MCP)
 - LLM Fine-Tuning & Deployment
 
