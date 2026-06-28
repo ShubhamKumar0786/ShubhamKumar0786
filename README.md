@@ -17,7 +17,7 @@ Welcome to my GitHub space! I am passionate about building intelligent AI applic
 
 ### 🌱 Currently Learning:
 
-- n8n automation
+- LangGraph
 - Model Context Protocol (MCP)
 - LLM Fine-Tuning & Deployment
 
