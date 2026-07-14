@@ -19,7 +19,7 @@ Welcome to my GitHub space! I am passionate about building intelligent AI applic
 
 ### 🌱 Currently Learning:
 
-- LangGraph
+- LangGraph(building multi agents system)
 - Model Context Protocol (MCP)
 - LLM Fine-Tuning & Deployment
 
@@ -30,9 +30,10 @@ Welcome to my GitHub space! I am passionate about building intelligent AI applic
 I'm always open to working on impactful AI projects, collaborating with developers, contributing to open-source, and building innovative solutions using AI and Data Science.
 
 
+---
+- 💬 Open to freelance projects, collaborations, and opportunities
 
-
-
+---
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shubham0786/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:shubhamkashyap9501@gmail.com) 
 
