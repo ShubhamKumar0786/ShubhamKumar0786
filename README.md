@@ -1,3 +1,5 @@
+# 💫 About Me:
+
 ## Hi there, I'm Shubham Kumar 👋
 
 🚀 AI Engineer | 🤖 LLM & Generative AI Developer | 📊 Data Scientist
@@ -10,7 +12,7 @@ Welcome to my GitHub space! I am passionate about building intelligent AI applic
 
 - **Languages:** Python, SQL
 - **Frameworks & Libraries:** Pandas, NumPy, Matplotlib, Seaborn, Plotly, Scikit-learn, TensorFlow, Keras, Transformers, LangChain, Microsoft AutoGen
-- **AI & ML:** Machine Learning, Deep Learning, NLP, LLMs, RAG Pipelines, LLM Fine-Tuning, Prompt Engineering, Vector Search
+- **AI & ML:** Machine Learning, Deep Learning, NLP, LLMs, RAG Pipelines,Hyperparameter-tunning, LLM Fine-Tuning, Prompt Engineering, Vector Search
 - **Tools & Platforms:** Power BI,Excel,MySQL, Git, Docker, Streamlit, FastAPI, Jupyter Notebook, Google Colab, VS Code
 
 ---
@@ -51,19 +53,21 @@ I'm always open to working on impactful AI projects, collaborating with develope
 
 ---
 
-### ⚙️ *Languages and Tools I Use*  
 
-<p align="left">
-  <a href="https://www.python.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="60" height="60"/>
-  <a href="https://www.mysql.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="60" height="60"/>
-  <a href="https://pandas.pydata.org/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" alt="Pandas" width="60" height="60"/>
-   <a href="https://numpy.org/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" alt="NumPy" width="60" height="60"/>
-  <a href="https://seaborn.pydata.org/" target="_blank"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="Seaborn" width="60" height="60"/>
- <a href="https://matplotlib.org/" target="_blank"> <img src="https://matplotlib.org/_static/images/logo2.svg" alt="matplotlib" width="70" height="70"/> </a>
-<a href="https://powerbi.microsoft.com/en-au/" target="_blank"> <img src="https://github.com/microsoft/PowerBI-Icons/blob/main/SVG/Power-BI.svg" alt="powerbi" width="60" height="60"/> </a> 
-<a href="https://www.tableau.com/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" alt="tableau" width="60" height="60"/> </a>
-<a href="https://www.excel.com/" target="_blank"> <img src="https://w7.pngwing.com/pngs/417/369/png-transparent-microsoft-excel-logo-microsoft-word-microsoft-office-365-pivot-table-excel-office-xlsx-icon-microsoft-excel-logo-miscellaneous-template-angle-thumbnail.png" alt="excel" width="60" height="60"/> 
-<a href="https://scikit-learn.org/stable/" target="_blank"> <img src="https://icon2.cleanpng.com/20180823/gsl/kisspng-scikit-learn-python-scikit-image-logo-brand-custom-application-development-service-provider-ap-1713950341314.webp" alt="scikit-learn" width="60" height="60"/> </a>
-<a href="https://www.tensorflow.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/TensorFlow_logo.svg/1200px-TensorFlow_logo.svg.png" alt="Tensorflow" width="60" height="60"/> </a>
-  
-</p>
+
+
+
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shubham0786/) [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@Shubham Kumar) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:shubhamkashyap9501@gmail.com) 
+
+# 💻 Tech Stack:
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![ApacheCassandra](https://img.shields.io/badge/cassandra-%231287B1.svg?style=for-the-badge&logo=apache-cassandra&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge&logo=python&logoColor=white) ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white) ![Microsoft Excel](https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white) ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white) ![LLM](https://img.shields.io/badge/Large%20Language%20Models-412991?style=for-the-badge) ![Microsoft AutoGen](https://img.shields.io/badge/Microsoft%20AutoGen-5E5E5E?style=for-the-badge&logo=microsoft&logoColor=white) ![Multi AI Agents](https://img.shields.io/badge/Multi%20AI%20Agents-6C63FF?style=for-the-badge) 
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=ShubhamKumar0786&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=ShubhamKumar0786&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=ShubhamKumar0786&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+---
+[![](https://komarev.com/ghpvc/?username=ShubhamKumar0786&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
