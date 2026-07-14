@@ -12,7 +12,7 @@ Welcome to my GitHub space! I am passionate about building intelligent AI applic
 
 - **Languages:** Python, SQL
 - **Frameworks & Libraries:** Pandas, NumPy, Matplotlib, Seaborn, Plotly, Scikit-learn, TensorFlow, Keras, Transformers, LangChain, Microsoft AutoGen
-- **AI & ML:** Machine Learning, Deep Learning, NLP, LLMs, RAG Pipelines,Hyperparameter-tunning, LLM Fine-Tuning, Prompt Engineering, Vector Search
+- **AI & ML:** Machine Learning, Deep Learning, NLP, LLMs, RAG Pipelines,Hyperparameter-tunning, Prompt Engineering, Vector Search
 - **Tools & Platforms:** Power BI,Excel,MySQL, Git, Docker, Streamlit, FastAPI, Jupyter Notebook, Google Colab, VS Code
 
 ---
@@ -28,9 +28,6 @@ Welcome to my GitHub space! I am passionate about building intelligent AI applic
 ### 💡 Let's Collaborate!
 
 I'm always open to working on impactful AI projects, collaborating with developers, contributing to open-source, and building innovative solutions using AI and Data Science.
-
-
-📫 **Reach me at:** shubhamkashyap9501@gmail.com
 
 
 
@@ -51,11 +48,10 @@ I'm always open to working on impactful AI projects, collaborating with develope
 
 
 
----
+
 
 “Learning never exhausts the mind.”
  
 
----
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
