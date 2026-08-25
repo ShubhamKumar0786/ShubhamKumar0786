@@ -19,8 +19,8 @@ Welcome to my GitHub space! I am passionate about building intelligent AI applic
 
 ### 🌱 Currently Learning:
 
-- Model Context Protocol (MCP)
-- LLM Fine-Tuning & Deployment
+- DevOps
+- LLM Fine-Tuning 
 
 ---
 
